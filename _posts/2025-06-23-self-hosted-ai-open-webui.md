@@ -6,10 +6,12 @@ tags: [open-webui, llamacpp, docker, self-hosted, amd-gpu]
 description: A guide to setting up a distributed AI environment using Open-WebUI on a server and Llama.cpp on a laptop for hardware acceleration.
 ---
 
-![OpenWebUI](/assets/openwebui.png)
+
 Are you tired of rising API costs, privacy concerns with cloud-based AI, or internet dependency? What if you could run a powerful AI model, similar to ChatGPT, entirely on your own hardware? 
 
 With the rise of open-source LLMs (Large Language Models), self-hosting is no longer just for researchers. Today, we are building a private, distributed AI platform that is extensible and user-friendly.
+![OpenWebUI](/assets/openwebui.png)
+
 
 ## What are we building?
 - **Open-WebUI** - an [extensible](https://docs.openwebui.com/features/plugin/), feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline
