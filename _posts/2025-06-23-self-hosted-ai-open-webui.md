@@ -1,6 +1,6 @@
 ---
 title: "Self-Hosting AI: Deploying Open-WebUI and Llama.cpp with Docker"
-date: 2026-06-23 10:00:00 +0000
+date: 2025-06-23 10:00:00 +0000
 categories: [AI, Home Lab]
 tags: [open-webui, llamacpp, docker, self-hosted, amd-gpu]
 description: A guide to setting up a distributed AI environment using Open-WebUI on a server and Llama.cpp on a laptop for hardware acceleration.
